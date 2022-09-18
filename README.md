@@ -54,4 +54,4 @@
 11)	При столкновении Cube должен менять свой цвет на зелёный, а при завершении столкновения обратно на красный.
 
 
-| GitHub | https://github.com/VioleGracex/hw1 |
+| GitHub | [https://github.com/VioleGracex/hw1][PlGh] |
